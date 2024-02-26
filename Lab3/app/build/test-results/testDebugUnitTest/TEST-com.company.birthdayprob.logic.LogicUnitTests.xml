@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.birthdayprob.logic.LogicUnitTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-19T08:40:08" hostname="Air-Bogdan" time="56.339">
+  <properties/>
+  <testcase name="testResultRange" classname="com.company.birthdayprob.logic.LogicUnitTests" time="56.169"/>
+  <testcase name="testCalculateThreshold" classname="com.company.birthdayprob.logic.LogicUnitTests" time="0.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
